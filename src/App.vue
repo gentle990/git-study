@@ -13,6 +13,9 @@ import HelloWorld from './components/HelloWorld.vue'
     <div>aaaa</div>
     <div>bbbb</div>
     <div>cccc</div>
+    <div>B开发的：dddd</div>
+    <div>B开发的：eeee</div>
+    <div>B开发的：ffff</div>
   </div>
   <HelloWorld msg="Vite + Vue" />
 </template>
